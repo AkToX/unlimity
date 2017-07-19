@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Unlimity Radio",
-    "currentPage": "index",
+    "currentPage": "partenariats",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -161,7 +161,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1374.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
