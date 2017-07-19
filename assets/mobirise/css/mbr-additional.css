@@ -567,11 +567,11 @@ h6,
 #header3-6 H3 {
   color: #ffffff;
 }
-#features6-8 H4 {
+#features6-n H4 {
   color: #ffffff;
 }
-#features6-8 P {
-  color: #ffffff;
+#features6-n P {
+  color: #efefef;
 }
 #form1-3 .form-control-label {
   color: #232323;
