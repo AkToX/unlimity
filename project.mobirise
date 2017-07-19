@@ -653,7 +653,8 @@
               "active": true,
               "link": "index#header3-6",
               "size": 0,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#e25041"
             }
           },
           "title1": "<p>Antoine</p>",
@@ -685,7 +686,8 @@
               "active": true,
               "link": "index#header3-6",
               "size": 0,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#3d8eb9"
             }
           },
           "title3": "Théo",
@@ -736,10 +738,10 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
             "H4": {
-              "color": "#ffffff"
+              "color": "#232323"
             },
             "P": {
-              "color": "#efefef"
+              "color": "#000000"
             }
           }
         },
