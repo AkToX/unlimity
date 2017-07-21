@@ -1,7 +1,7 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -494,68 +494,18 @@ h6,
 #features7-d P {
   color: #ffffff;
 }
-
-#ext_menu-i .hide-buttons .nav-btn {
-  display: none !important;
+#features7-o .card-subtitle {
+  color: #bcbcbc;
 }
-#ext_menu-i .navbar-caption {
+#features7-o .iconbox {
+  background-color: #f28281;
+  border-color: #f28281;
+}
+#features7-o H4 {
   color: #ffffff;
 }
-#ext_menu-i .navbar-toggler {
+#features7-o P {
   color: #ffffff;
-}
-#ext_menu-i .close-icon::before,
-#ext_menu-i .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-i .link,
-#ext_menu-i .dropdown-item {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-}
-#ext_menu-i .link {
-  font-size: 1rem;
-}
-#ext_menu-i .dropdown-item,
-#ext_menu-i .nav-dropdown-sm .link {
-  font-size: 1.083rem;
-}
-#ext_menu-i .link:hover,
-#ext_menu-i .dropdown-item:hover,
-#ext_menu-i .link:focus,
-#ext_menu-i .dropdown-item:focus {
-  color: #f28281;
-}
-#ext_menu-i .link[aria-expanded="true"],
-#ext_menu-i .dropdown-menu {
-  background: #343e57;
-}
-#ext_menu-i .nav-dropdown-sm .link:focus,
-#ext_menu-i .nav-dropdown-sm .link:hover,
-#ext_menu-i .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-i .nav-dropdown-sm .dropdown-item:hover {
-  background: #414e6d!important;
-}
-#ext_menu-i .navbar,
-#ext_menu-i .nav-dropdown-sm,
-#ext_menu-i .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-i .nav-dropdown-sm .dropdown-menu {
-  background: #475577;
-}
-#ext_menu-i .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-i .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-i .bg-color.transparent.opened .link:hover,
-#ext_menu-i .bg-color.transparent.opened .link:focus {
-  color: #f28281;
-}
-#ext_menu-i .link[aria-expanded="true"],
-#ext_menu-i .dropdown-item[aria-expanded="true"] {
-  color: #f28281!important;
 }
 
 #ext_menu-0 .hide-buttons .nav-btn {
@@ -654,4 +604,67 @@ h6,
 }
 #social-buttons2-4 .mbr-section-title {
   color: #ffffff;
+}
+
+#ext_menu-i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-i .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-i .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-i .close-icon::before,
+#ext_menu-i .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-i .link,
+#ext_menu-i .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-i .link {
+  font-size: 1rem;
+}
+#ext_menu-i .dropdown-item,
+#ext_menu-i .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#ext_menu-i .link:hover,
+#ext_menu-i .dropdown-item:hover,
+#ext_menu-i .link:focus,
+#ext_menu-i .dropdown-item:focus {
+  color: #f28281;
+}
+#ext_menu-i .link[aria-expanded="true"],
+#ext_menu-i .dropdown-menu {
+  background: #343e57;
+}
+#ext_menu-i .nav-dropdown-sm .link:focus,
+#ext_menu-i .nav-dropdown-sm .link:hover,
+#ext_menu-i .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-i .nav-dropdown-sm .dropdown-item:hover {
+  background: #414e6d!important;
+}
+#ext_menu-i .navbar,
+#ext_menu-i .nav-dropdown-sm,
+#ext_menu-i .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-i .nav-dropdown-sm .dropdown-menu {
+  background: #475577;
+}
+#ext_menu-i .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-i .bg-color.transparent.opened .link:hover,
+#ext_menu-i .bg-color.transparent.opened .link:focus {
+  color: #f28281;
+}
+#ext_menu-i .link[aria-expanded="true"],
+#ext_menu-i .dropdown-item[aria-expanded="true"] {
+  color: #f28281!important;
 }
