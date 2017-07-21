@@ -240,7 +240,7 @@
             "overlay": true,
             "overlayOpacity": "0.5",
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
