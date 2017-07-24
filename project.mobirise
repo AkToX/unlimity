@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Unlimity Radio",
-    "currentPage": "partenariats",
+    "currentPage": "programmation",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Unlimity</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-1\">WEBRADIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-h\">T'CHAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header3-6\">L'EQUIPE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#form1-3\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partenariats\" aria-expanded=\"false\">PARTENARIATS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"evenements\">EVENEMENTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://discord.gg/s4amNch\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>DISCORD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-1\">WEBRADIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-h\">T'CHAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header3-6\">L'EQUIPE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#form1-3\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partenariats\" aria-expanded=\"false\">PARTENARIATS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programmation\">PROGRAMMATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://discord.gg/s4amNch\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>DISCORD</a></li>"
         },
         {
           "_tags": [
@@ -453,7 +453,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Unlimity</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-1\">WEBRADIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-h\">T'CHAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header3-6\">L'EQUIPE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#form1-3\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partenariats\" aria-expanded=\"false\">PARTENARIATS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"evenements\">EVENEMENTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://discord.gg/s4amNch\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>DISCORD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-1\">WEBRADIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-h\">T'CHAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header3-6\">L'EQUIPE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#form1-3\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partenariats\" aria-expanded=\"false\">PARTENARIATS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programmation\">PROGRAMMATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://discord.gg/s4amNch\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>DISCORD</a></li>"
         },
         {
           "_tags": [
@@ -887,7 +887,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Unlimity</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-1\">WEBRADIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-h\">T'CHAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header3-6\">L'EQUIPE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#form1-3\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partenariats\" aria-expanded=\"false\">PARTENARIATS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"evenements\">EVENEMENTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://discord.gg/s4amNch\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>DISCORD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-1\">WEBRADIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-h\">T'CHAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header3-6\">L'EQUIPE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#form1-3\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partenariats\" aria-expanded=\"false\">PARTENARIATS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programmation\">PROGRAMMATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://discord.gg/s4amNch\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>DISCORD</a></li>"
         },
         {
           "_tags": [
@@ -935,7 +935,7 @@
             "showButtons": false
           },
           "title": "EN CONSTRUCTION",
-          "text": "ICI LA LISTE DES EVENEMENTS SUR LA WEBRADIO UNLIMITY",
+          "text": "ICI LA PROGRAMMATION DES MUSIQUES DE LA JOURNEE SUR LA WEBRADIO",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
