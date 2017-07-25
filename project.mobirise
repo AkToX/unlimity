@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -382,10 +382,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -417,7 +417,7 @@
           "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#475577",
-            "fontSize": "1",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -453,7 +453,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Unlimity</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-k\">WEBRADIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header3-6\">L'EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-u\">RECRUTEMENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partenariats\" aria-expanded=\"false\">PARTENARIATS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programmation\">PROGRAMMATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://discord.gg/s4amNch\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>DISCORD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-k\">WEBRADIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header3-6\">L'EQUIPE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-u\">RECRUTEMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header1-v\" aria-expanded=\"false\">PROPOSER UNE MUSIQUE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partenariats\" aria-expanded=\"false\">PARTENARIATS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programmation\">PROGRAMMATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://discord.gg/s4amNch\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>DISCORD</a></li>"
         },
         {
           "_tags": [
@@ -481,7 +481,7 @@
             "showButtons": false
           },
           "title": "ECOUTEZ-NOUS !",
-          "text": "<iframe src=\"https://www.radioking.com/widgets/player/player.php?id=85513&amp;c=%231E7FCB&amp;ii=&amp;p=1&amp;pp=1&amp;i=0&amp;eq=1&amp;po=1&amp;t=1&amp;a=1&amp;f=medium\" name=\"idFrame\" id=\"idFrame\" width=\"250\" height=\"327\" frameborder=\"0\"></iframe><br>",
+          "text": "<iframe src=\"https://www.radioking.com/widgets/player/player.php?id=85513&amp;c=%231E7FCB&amp;ii=&amp;p=1&amp;pp=1&amp;i=0&amp;eq=1&amp;po=1&amp;t=1&amp;a=1&amp;f=medium\" name=\"idFrame\" id=\"idFrame\" width=\"250\" height=\"327\" frameborder=\"0\"></iframe>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -690,7 +690,36 @@
           },
           "title": "RECRUTEMENTS",
           "text": "Vous souhaitez intégrer notre équipe ?<br>Gérer, animer ou organiser Unlimity serait votre rêve ?<br>Venez remplir un questionnaire pour essayer d'arriver dans nos rangs !",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/Ca4cSFU7WX8MJUSm2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Je veux rentrer dans l'équipe d'Unlimity Radio<br>(Et devenir populaire car Unlimity Radio c'est la meilleure radio)<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/Ca4cSFU7WX8MJUSm2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>Je veux rentrer dans l'équipe d'Unlimity Radio<br>(Et devenir populaire car Unlimity Radio c'est la meilleure radio)<br></a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-v",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1330.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "PROPOSEZ-NOUS DES SONS !",
+          "text": "Vous pouvez désormais nous proposer des musiques de tout style ! Elles passeront sur la webradio pendant les heures qui leurs sont reservés !",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/1JgdYMnh2Qv3OhN2ewNULVEs72LiMwCoD-6YFkndsbmE/prefill\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>AJOUTER UNE MUSIQUE</a> "
         },
         {
           "_styles": {
