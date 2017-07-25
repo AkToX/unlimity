@@ -465,7 +465,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/universe-galaxy-stars-light-68743-3840x2400-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -553,7 +553,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/galaxy-stars-universe-light-planet-63624-3840x2400-2000x1250.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -718,7 +718,7 @@
             "showButtons": true
           },
           "title": "PROPOSEZ-NOUS DES SONS !",
-          "text": "Vous pouvez désormais nous proposer des musiques de tout style ! Elles passeront sur la webradio pendant les heures qui leurs sont reservés !",
+          "text": "Vous pouvez désormais nous proposer des musiques de différents styles !",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/1JgdYMnh2Qv3OhN2ewNULVEs72LiMwCoD-6YFkndsbmE/prefill\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>AJOUTER UNE MUSIQUE</a> "
         },
         {
