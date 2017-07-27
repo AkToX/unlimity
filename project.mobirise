@@ -483,7 +483,7 @@
             "showButtons": false
           },
           "title": "ECOUTEZ-NOUS !",
-          "text": "<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE --><br><script type=\"text/javascript\" src=\"https://hosted.muses.org/mrp.js%22%3E&lt;/script&gt;&lt;br&gt;&lt;script type=\" text=\"\" javascript\"=\"\"><br>MRP.insert({<br>'url':'https://www.radioking.com/play/unlimity-radio-',<br>'codec':'mp3',<br>'volume':100,<br>'autoplay':true,<br>'forceHTML5':true,<br>'jsevents':true,<br>'buffering':0,<br>'title':'Unlimity Radio',<br>'welcome':'Bonne écoute !',<br>'wmode':'transparent',<br>'skin':'mcclean',<br>'width':180,<br>'height':60<br>});<br></script><br><!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->",
+          "text": "<br><iframe src=\"https://www.radioking.com/widgets/player/player.php?id=86716&amp;c=%231E7FCB&amp;ii=&amp;p=0&amp;pp=1&amp;i=0&amp;eq=1&amp;po=1&amp;t=1&amp;a=1&amp;f=big\" name=\"idFrame\" id=\"idFrame\" width=\"445\" height=\"196\" frameborder=\"0\"></iframe><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
